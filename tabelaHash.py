@@ -1,8 +1,3 @@
-'''
-Renan Maziero
-RU: 4691724
-'''
-
 class estado:
     
     def __init__(self, sigla=None, nomeEstado=None):
